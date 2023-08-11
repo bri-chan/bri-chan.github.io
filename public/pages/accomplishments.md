@@ -1,3 +1,3 @@
 # 🏆 Accomplishments
-**Won First Place** @ [EY Innovation Campaign](https://www.ey.com/) _(May 2021)_
-Built Trial Balance System, a system that streamlines data transmission across users, providing consistent, reliable financial reports to them. 
+**Coca-Cola Scholar** @ [Coca-Cola Foundation](https://www.coca-colascholarsfoundation.org/) _(2022)_
+Selected as part of cohort of 150 students from initial pool of 68,000; received $20,000 scholarship
