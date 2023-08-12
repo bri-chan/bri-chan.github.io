@@ -71,7 +71,7 @@ export default function Sidebar({
         <Tooltip title="Source of this project" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://github.com/john7rho/react-vscode-portfolio"}
+            href={"https://github.com/bri-chan/bri-chan.github.io"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
