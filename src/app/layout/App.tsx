@@ -24,14 +24,13 @@ interface Page {
   index: number;
   name: string;
   route: string;
-  visible: boolean;
 }
 
 function initVisiblePageIndexs(pages: Page[]) {
   const tabs = [];
   for (let i = 0; i < pages.length; i++) {
     const page = pages[i];
-    if (page.visible) tabs.push(page.index);
+    tabs.push(page.index);
   }
   return tabs;
 }
@@ -45,9 +44,7 @@ export default function App() {
     initVisiblePageIndexs(pages)
   );
   const [darkMode, setDarkMode] = useState(false);
-  const [visiblePages, setVisiblePages] = useState(
-    pages.filter((x) => x.visible)
-  );
+  const [visiblePages, setVisiblePages] = useState(pages);
   const paletteType = darkMode ? "dark" : "light";
   usePageTracking();
   const theme = createTheme({
@@ -138,7 +135,6 @@ export default function App() {
                 expanded={expanded}
                 darkMode={darkMode}
                 handleThemeChange={handleThemeChange}
-                setSelectedIndex={setSelectedIndex}
               />
             </Grid>
             {expanded && (
@@ -158,7 +154,7 @@ export default function App() {
                     EXPLORER
                   </Typography>
                   <AppTree
-                    pages={pages.filter((x) => x.visible)}
+                    pages={pages}
                     selectedIndex={selectedIndex}
                     setSelectedIndex={setSelectedIndex}
                     currentComponent={currentComponent}
@@ -208,10 +204,6 @@ export default function App() {
                       element={<MDContainer path={`./pages/${name}`} />}
                     />
                   ))}
-                  <Route
-                    path="/docs"
-                    element={<MDContainer path={`./pages/docs.md`} />}
-                  />
                   <Route path="*" element={<Navigate to="/" replace />} />
                 </Routes>
               </Grid>
