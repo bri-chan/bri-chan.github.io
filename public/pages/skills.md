@@ -11,6 +11,8 @@
 - JavaScript/TypeScript
   - React.js
 - Java
+- HTML
+- CSS
 
 ## Cloud/DevOps
 - AWS
