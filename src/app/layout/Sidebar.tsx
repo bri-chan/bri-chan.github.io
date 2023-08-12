@@ -6,14 +6,12 @@ import { VscFiles, VscSettingsGear } from "react-icons/vsc";
 import { BiGitBranch } from "react-icons/bi";
 import Divider from "@mui/material/Divider";
 import { links } from "../pages/links";
-import { useNavigate } from "react-router-dom";
 
 interface Props {
   expanded: boolean;
   setExpanded: React.Dispatch<React.SetStateAction<boolean>>;
   darkMode: boolean;
   handleThemeChange: () => void;
-  setSelectedIndex: React.Dispatch<React.SetStateAction<number>>;
 }
 
 export default function Sidebar({
@@ -21,9 +19,7 @@ export default function Sidebar({
   setExpanded,
   darkMode,
   handleThemeChange,
-  setSelectedIndex,
 }: Props) {
-  const navigate = useNavigate();
   return (
     <Box
       sx={{
@@ -75,7 +71,7 @@ export default function Sidebar({
         <Tooltip title="Source of this project" arrow placement="right">
           <Link
             target="_blank"
-            href={"https://github.com/bri-chan/bri-chan.github.io"}
+            href={"https://github.com/john7rho/react-vscode-portfolio"}
             underline="none"
             color="inherit"
             sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
@@ -169,36 +165,24 @@ export default function Sidebar({
             )}
           </Box>
         </Tooltip>
-        <Tooltip title="Markdown syntax" arrow placement="right">
-          <Link
-            onClick={() => {
-              setSelectedIndex(-1);
-              navigate("/docs");
-            }}
-            underline="none"
-            color="inherit"
-            sx={{ WebkitTapHighlightColor: "rgba(0,0,0,0)" }}
-          >
-            <Box
-              sx={{
-                flexGrow: 0,
-                fontSize: 24,
-                color: "#858585",
-                cursor: "pointer",
-                "&:hover": {
-                  color: "white",
-                },
-                WebkitTapHighlightColor: "rgba(0,0,0,0)",
-              }}
-              display="flex"
-              justifyContent="center"
-            >
-              <Box mt={0.7}>
-                <VscSettingsGear />
-              </Box>
-            </Box>
-          </Link>
-        </Tooltip>
+        <Box
+          sx={{
+            flexGrow: 0,
+            fontSize: 24,
+            color: "#858585",
+            cursor: "pointer",
+            "&:hover": {
+              color: "white",
+            },
+            WebkitTapHighlightColor: "rgba(0,0,0,0)",
+          }}
+          display="flex"
+          justifyContent="center"
+        >
+          <Box mt={0.7}>
+            <VscSettingsGear />
+          </Box>
+        </Box>
       </Box>
     </Box>
   );
