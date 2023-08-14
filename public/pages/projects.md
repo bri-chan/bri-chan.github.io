@@ -9,3 +9,18 @@
   - JavaScript
   - CSS
 
+## [miniML]() 🔗
+- A meta-circular interpreter in OCaml for a Turing-complete, ML-based language supporting atomic data types, lazy expressions, and lexically scoped environment semantics.
+  - OCaml
+  - VS Code
+
+## [Rainforest Exchange]() 🔗
+- Website + donation flow redesign for Rainforest Exchange, a digital platform for financing the protection and preservation of rainforests for planetary health, utilized by thousands of users.
+  - Figma
+  - Notion
+
+## [moment-ly](https://github.com/briannachan3/moment-ly) 🔗
+- A productivity app geared towards women and neurodivergent students aiming to maintain the balance between mental wellness and motivation at every moment of the day.
+  - Figma
+  - Swift
+

@@ -18,7 +18,10 @@ Partnered with an international rainforest preservation non-profit to redesign w
 
 - Detailed achievements:
   - Revamped donation flow for corporate & individual donors.
-  - Conducted user research through a series of 10+ rigorous user/expert interviews.
+  - Conducted user research through over a dozen rigorous user/expert interviews.
+  - Developed five optimized user workflows.
+  - Iterated on two low-fidelity and high-fidelity prototypes to present finished product.
+  - Worked closely with executives to determine project roadmap and scope.
 
 &nbsp;
 
