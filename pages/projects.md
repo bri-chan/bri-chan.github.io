@@ -14,7 +14,7 @@
   - OCaml
   - VS Code
 
-## [Rainforest Exchange]() 🔗
+## [Rainforest Exchange](https://www.figma.com/file/obLB4kuubRMVPBcWtOSXUo/RX-EXTERNAL?type=design&node-id=0%3A1&mode=design&t=x4qTXx6QagCC3nw7-1) 🔗
 - Website + donation flow redesign for Rainforest Exchange, a digital platform for financing the protection and preservation of rainforests for planetary health, utilized by thousands of users.
   - Figma
   - Notion
