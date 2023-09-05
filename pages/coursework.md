@@ -1,6 +1,8 @@
 # 🥇 Coursework (Selected)
 - Fall 2023: Probability (Stat 110, Harvard)
 - Fall 2023: Introduction to Algorithms and their Limitations (CS 120, Harvard)
+- Fall 2023: Design of Useful and Usable Interactive Systems (CS 79, Harvard)
+- Fall 2023: A Libertarian Perspective on Economic and Social Policy (Econ 1017, Harvard)
 - Spring 2022: Abstraction and Design in Computation (CS 51, Harvard)
 - Spring 2022: Principles of Macroeconomics (Econ 10b, Harvard)
 - Spring 2022: Using Big Data to Solve Economic and Social Problems (Econ 50, Harvard)
