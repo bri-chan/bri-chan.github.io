@@ -12,7 +12,7 @@ Designed and built a re-architecture to seamlessly migrate a legacy product's ba
 
 &nbsp;
 
-** Senior Product R&D Designer** @ [Harvard Tech for Social Good](https://socialgood.hcs.harvard.edu) _(February 2023 - Present)_
+**Senior Product R&D Designer** @ [Harvard Tech for Social Good](https://socialgood.hcs.harvard.edu) _(February 2023 - Present)_
 
 Partnered with an international rainforest preservation non-profit to redesign website in a team of 4 product researcher-designers, communicating with clients weekly & spearhead Figma high-fidelity clickable prototypes for client.
 
