@@ -2,7 +2,7 @@
 
 ## Summary
 
-Student at Harvard studying Computer Science and Economics. Passionate about leveraging technology to create positive social impact, empowering women, and staying curious.
+Student at Harvard studying Computer Science and Economics with a unique blend of technical expertise, empathy for others, and experience managing large cross-functional teams. Passionate about leveraging technology to create positive social impact, empowering women, and staying curious.
 
 
 ## Experience
