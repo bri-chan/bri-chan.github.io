@@ -14,6 +14,15 @@ Designed and built a re-architecture to seamlessly migrate a legacy product's ba
 
 **Senior Product R&D Designer** @ [Harvard Tech for Social Good](https://socialgood.hcs.harvard.edu) _(February 2023 - Present)_
 
+_(Fall 2023)_
+Leveraging internally collected data to develop an interactive predictive modeling tool for an EdTech nonprofit organization dedicated to empowering American youth to make informed financial decisions when navigating the costs of higher education.
+
+- Detailed achievements:
+  - Oversee a team of 6 product researcher-designers to successfully deliver end product impacting over 3k active student users.
+  - Collaborate closely with clients and stakeholders to understand client needs and develop project roadmap.
+  - Lead 24+ user interviews and usability tests to understand user needs and pain points.
+
+_(Spring 2023)_
 Partnered with an international rainforest preservation non-profit to redesign website in a team of 4 product researcher-designers, communicating with clients weekly & spearhead Figma high-fidelity clickable prototypes for client.
 
 - Detailed achievements:
@@ -25,11 +34,29 @@ Partnered with an international rainforest preservation non-profit to redesign w
 
 &nbsp;
 
+**Senior Product Manager** @ [Product Lab]([https://socialgood.hcs.harvard.edu](https://www.hcsproductlab.org/)) _(September 2022 - Present)_
+
+_(Fall 2023)_
+Reimagining the mobile user experience for music data analytics company valued at $6M, used by Netflix, Universal Music Group, Capitol Records, and more. Lead case team of 7 to analyze pain points, execute user & target market research, deploy usability studies, create MRD/PRD.
+- Detailed achievements:
+  - Conduct market research to understand core use cases and target users, analyzing user interaction recordings and user analytics.
+  - Synthesize use cases and ideate capabilities to meet the user where they are.
+  - Spearhead low-fidelity prototypes of envisioned product using Figma, working closely with in-house designer to ensure mock-ups align with those designed by the internal team.
+  - Present market & product research document to founder & C-level executives, consolidating high-level market research (including information on target market, user personas, competitor analysis, high-level capabilities, metrics strategy) and defining value & purpose of proposed features.
+
+_(Spring 2023)_
+Produce efficient solution recommendations for $180B+ market cap Fortune 500 networking and communications company. Designed growth features to increase long-term MAU retention by 12%.
+- Detailed achievements:
+  - Produced quality deliverables including Market & Product Research Documents, wireframes, and go-to-market (GTM) strategies.
+  - Identified growth opportunity for client to increase its user share in the web calling/conferencing market.
+
+&nbsp;
+
 **Design Lead** @ [Datamatch](https://datamatch.me) _(August 2022 - Present)_
 
 Leading a team of designers to design and prototype web pages using Figma for Datamatch, the largest college matchmaking app in the USA, with 52k+ users and 235k matches from 40+ colleges across the USA and Canada.
 - Detailed achievements:
-  - Revamped onboarding page.
+  - Revamped onboarding page .
   - Collaborate with biz, web, algo, stats teams for best user experience.
   - Ensure smooth handoff to web team upon completion of Figma prototypes.
 
