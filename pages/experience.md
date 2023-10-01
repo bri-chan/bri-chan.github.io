@@ -34,7 +34,7 @@ Partnered with an international rainforest preservation non-profit to redesign w
 
 &nbsp;
 
-**Senior Product Manager** @ [Product Lab]([https://socialgood.hcs.harvard.edu](https://www.hcsproductlab.org/)) _(September 2022 - Present)_
+**Senior Product Manager** @ [Product Lab](https://www.hcsproductlab.org/) _(September 2022 - Present)_
 
 _(Fall 2023)_
 Reimagining the mobile user experience for music data analytics company valued at $6M, used by Netflix, Universal Music Group, Capitol Records, and more. Lead case team of 7 to analyze pain points, execute user & target market research, deploy usability studies, create MRD/PRD.
