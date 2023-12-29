@@ -1,4 +1,7 @@
 # 🥇 Coursework (Selected)
+- Spring 2024: Data Structures and Algorithms (CS 124, Harvard)
+- Spring 2024: Intermediate Microeconomics (Econ 1010a, Harvard)
+- Spring 2024: Entrepreneurship and Innovation (Eng-Sci 94, Harvard)
 - Fall 2023: Probability (Stat 110, Harvard)
 - Fall 2023: Introduction to Algorithms and their Limitations (CS 120, Harvard)
 - Fall 2023: Design of Useful and Usable Interactive Systems (CS 79, Harvard)
