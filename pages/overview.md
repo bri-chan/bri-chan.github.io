@@ -39,7 +39,7 @@ Designed and built a re-architecture to seamlessly migrate a legacy product's ba
 - CSS
 
 ## Coursework
-- Algorithms, Data, Microeconomics/Macroeconomics
+- Data Structures and Algorithms, Big Data, Microeconomics, Macroeconomics
 
 ## Languages
 **English**: Native
