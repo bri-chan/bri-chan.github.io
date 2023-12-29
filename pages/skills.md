@@ -19,3 +19,7 @@
 
 ## Vcs
 - Git
+
+## Finance
+- Excel
+- Modeling
