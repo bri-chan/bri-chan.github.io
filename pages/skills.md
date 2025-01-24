@@ -22,4 +22,7 @@
 
 ## Finance
 - Excel
+- PitchBook
+- Bloomberg
+- CoStar
 - Modeling
