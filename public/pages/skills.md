@@ -16,6 +16,7 @@
 
 ## Cloud/DevOps
 - AWS
+- Docker
 
 ## Vcs
 - Git
