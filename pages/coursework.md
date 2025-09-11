@@ -1,4 +1,8 @@
 # 🥇 Coursework (Selected)
+- Fall 2025: Corporate Finance (Econ 1745, Harvard)
+- Fall 2025: Startups (Eng-Sci 30, Harvard)
+- Fall 2025: Data Science (CS 109a, Harvard)
+- Fall 2025: Entrepreneurial Founding and Teams (15.394, MIT)
 - Spring 2025: Using Markets to Solve Social Problems (Econ 1021, Harvard)
 - Spring 2025: Planning and Learning Methods in AI (CS 1820, Harvard)
 - Spring 2025: Applied Privacy for Data Science (CS 2080, Harvard)
