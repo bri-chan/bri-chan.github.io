@@ -2,7 +2,7 @@
 
 ## Summary
 
-Student at Harvard studying Computer Science and Economics with a unique blend of technical expertise, empathy for others, and experience managing large cross-functional teams. Passionate about leveraging technology to create positive social impact, always learning, and staying curious.
+Student at Harvard studying Computer Science and Economics with a unique blend of technical expertise, empathy for others, and experience managing large cross-functional teams. Passionate about leveraging technology and data to create positive social impact, always learning, and staying curious.
 
 
 ## Experience
@@ -31,6 +31,7 @@ Designed and built a re-architecture to seamlessly migrate a legacy product's ba
 
 ### Programming languages
 - C++
+- SQL
 - Python
 - JavaScript/TypeScript
   - React.js
@@ -39,7 +40,7 @@ Designed and built a re-architecture to seamlessly migrate a legacy product's ba
 - CSS
 
 ## Coursework
-- Data Structures and Algorithms, Big Data, Microeconomics, Macroeconomics
+- Artificial Intelligence, Systems Programming and Machine Organization, Data Structures and Algorithms, Data Science, Probability, Big Data, Microeconomics, Macroeconomics, Corporate Finance, Entrepreneurship and Innovation
 
 ## Languages
 **English**: Native
