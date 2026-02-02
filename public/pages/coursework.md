@@ -1,4 +1,5 @@
 # 🥇 Coursework (Selected)
+- Spring 2026: Startup Financing, From Bootstrapping to Venture Capital (Eng-Sci 31, Harvard)
 - Fall 2025: Corporate Finance (Econ 1745, Harvard)
 - Fall 2025: Startups (Eng-Sci 30, Harvard)
 - Fall 2025: Data Science (CS 109a, Harvard)
